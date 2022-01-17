@@ -1,4 +1,4 @@
-- 👋 Halli hallå. Jag heter Lisa
+- 👋 Halli hallå! Jag heter Lisa
 - ⭐️ Jag läser just nu Webbutvecklingsprogrammet
 - 📝 Jag pluggar på Mittuniversitetet
 - 💖 Jag tycker om Kingdom Hearts och min häst.
