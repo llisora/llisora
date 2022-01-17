@@ -3,6 +3,7 @@
 - 📝 Jag pluggar på Mittuniversitetet
 - 💖 Jag tycker om Kingdom Hearts och min häst.
 - 📫 Min mejl är liba2103@student.miun.se
+- 👾 Länken till min profil är www.github.com/llisora
 
 ⭐️ Detta GitHub-konto kommer att användas till skoluppgifter! ⭐️ 
 
