@@ -1,9 +1,8 @@
 - 👋 Halli hallå! Jag heter Lisa
-- ⭐️ Jag läser just nu Webbutvecklingsprogrammet
-- 📝 Jag pluggar på Mittuniversitetet
-- 💖 Jag tycker om Kingdom Hearts och min häst.
-- 📫 Min mejl är liba2103@student.miun.se
-- 👾 Detta GitHub-konto kommer att användas till skoluppgifter!
+- ⭐️ Jag tog min högskoleexamen med inriktning datateknik i Juni 2023.
+- 👾 Jag söker därför mitt första jobb inom webbutveckling!
+  📫 lisa.backlin@gmail.com
+
 
 
 
